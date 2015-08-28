@@ -1,0 +1,49 @@
+the preferenceList for university_of_michigan are: 
+erin_jones
+john_smith
+joe_miller
+dave_roberts
+the preferenceList for erin_jonesare: 
+duke_university
+university_of_michigan
+---- ROUND 1 ----
+university_of_michigan makes an offer to erin_jones
+  erin_jones tentatively accepts offer from university_of_michigan
+duke_university makes an offer to john_smith
+  john_smith declines offer from duke_university
+university_of_california_san_francisco makes an offer to erin_jones
+  erin_jones declines offer from university_of_california_san_francisco
+---- ROUND 2 ----
+university_of_michigan makes an offer to john_smith
+  john_smith tentatively accepts offer from university_of_michigan
+duke_university makes an offer to erin_jones
+  erin_jones withdraws tentative acceptance of offer from university_of_michigan
+  erin_jones tentatively accepts offer from duke_university
+university_of_california_san_francisco makes an offer to joe_miller
+  joe_miller declines offer from university_of_california_san_francisco
+---- ROUND 3 ----
+university_of_michigan makes an offer to joe_miller
+  joe_miller declines offer from university_of_michigan
+university_of_california_san_francisco makes an offer to john_smith
+  john_smith declines offer from university_of_california_san_francisco
+---- ROUND 4 ----
+university_of_michigan makes an offer to dave_roberts
+  dave_roberts tentatively accepts offer from university_of_michigan
+---- ROUND 5 ----
+no offers_made this round
+
+The enrollment list of duke_university is:
+erin_jones
+[ 0 remaining slots.]
+The enrollment list of university_of_california_san_francisco is:
+[ 2 remaining slots.]
+The enrollment list of university_of_michigan is:
+john_smith
+dave_roberts
+[ 1 remaining slots.]
+
+The student dave_roberts decided to go to university_of_michigan
+The student erin_jones decided to go to duke_university
+The student joe_miller hasn't decided where to go.
+The student john_smith decided to go to university_of_michigan
+

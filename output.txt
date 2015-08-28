@@ -1,0 +1,1263 @@
+the preferenceList for yale are: 
+kim_myers
+carol_adams
+bob_chen
+ryan_brewer
+elizabeth_peters
+wayne_ford
+sally_norton
+frank_grey
+elizabeth_kramer
+frank_jones
+valerie_smith
+daniel_harrison
+kim_weston
+john_lee
+daniel_kramer
+ryan_jones
+georgiana_evans
+elizabeth_myers
+paul_lee
+bob_davis
+john_chen
+daniel_grey
+larry_chen
+the preferenceList for rensselaer are: 
+alice_smith
+elizabeth_myers
+elizabeth_evans
+georgiana_evans
+carol_adams
+kim_lee
+kim_myers
+bob_davis
+isabelle_smith
+carol_trotter
+mary_trotter
+daniel_harrison
+ryan_jones
+ryan_peters
+georgiana_davis
+alice_evans
+bob_chen
+bob_kramer
+frank_jones
+kim_weston
+paul_lee
+elizabeth_ford
+the preferenceList for university_of_illinois are: 
+mary_harrison
+paul_lee
+elizabeth_kramer
+isabelle_smith
+mary_trotter
+elizabeth_chen
+kim_roberts
+nancy_kramer
+kim_weston
+alice_evans
+kim_lee
+frank_harrison
+wayne_ford
+wayne_evans
+sally_norton
+bob_chen
+georgiana_davis
+kim_myers
+georgiana_evans
+nancy_davis
+carol_trotter
+elizabeth_evans
+valerie_kramer
+john_lee
+daniel_grey
+john_jones
+elizabeth_myers
+john_chen
+the preferenceList for rice are: 
+alice_evans
+carol_trotter
+daniel_harrison
+alice_smith
+elizabeth_peters
+kim_myers
+carol_adams
+elizabeth_kramer
+sally_norton
+valerie_kramer
+wayne_ford
+john_lee
+sally_evans
+elizabeth_chen
+mary_adams
+kim_lee
+wayne_evans
+john_chen
+elizabeth_evans
+daniel_kramer
+kim_weston
+bob_davis
+bob_kramer
+ryan_peters
+the preferenceList for university_of_wisconsin are: 
+elizabeth_peters
+wayne_peters
+bob_kramer
+georgiana_davis
+bob_chen
+ryan_peters
+john_jones
+elizabeth_ford
+carol_adams
+nancy_davis
+harold_peters
+daniel_kramer
+mary_trotter
+valerie_kramer
+elizabeth_myers
+georgiana_brewer
+isabelle_weston
+georgiana_evans
+frank_grey
+elizabeth_chen
+bob_davis
+carol_weston
+elizabeth_evans
+wayne_ford
+mary_adams
+daniel_harrison
+kim_myers
+frank_jones
+larry_chen
+ryan_jones
+the preferenceList for harvard are: 
+sally_evans
+mary_trotter
+kim_roberts
+valerie_smith
+ryan_brewer
+nancy_kramer
+harold_peters
+frank_harrison
+valerie_kramer
+wayne_ford
+isabelle_weston
+frank_jones
+georgiana_brewer
+nancy_davis
+alice_evans
+john_lee
+bob_chen
+john_chen
+paul_lee
+elizabeth_peters
+kim_lee
+bob_davis
+ryan_peters
+carol_trotter
+kim_myers
+the preferenceList for dartmouth are: 
+frank_harrison
+wayne_ford
+kim_lee
+carol_trotter
+kim_roberts
+kim_weston
+valerie_kramer
+bob_chen
+bob_kramer
+john_chen
+daniel_grey
+elizabeth_ford
+elizabeth_kramer
+elizabeth_evans
+frank_jones
+daniel_kramer
+wayne_peters
+john_lee
+isabelle_weston
+carol_adams
+georgiana_davis
+valerie_smith
+elizabeth_peters
+georgiana_brewer
+kim_myers
+elizabeth_chen
+elizabeth_myers
+alice_evans
+mary_adams
+the preferenceList for princeton are: 
+wayne_ford
+ryan_jones
+daniel_grey
+elizabeth_peters
+alice_smith
+sally_evans
+frank_harrison
+frank_jones
+ryan_peters
+harold_peters
+elizabeth_myers
+frank_grey
+georgiana_davis
+alice_evans
+paul_lee
+georgiana_evans
+mary_trotter
+larry_chen
+carol_adams
+kim_myers
+the preferenceList for university_of_colorado are: 
+nancy_kramer
+daniel_grey
+john_chen
+carol_adams
+georgiana_evans
+georgiana_davis
+carol_trotter
+alice_evans
+isabelle_smith
+harold_peters
+kim_myers
+ryan_peters
+valerie_smith
+kim_lee
+georgiana_brewer
+larry_chen
+mary_adams
+wayne_evans
+daniel_kramer
+frank_jones
+elizabeth_kramer
+elizabeth_evans
+frank_harrison
+daniel_harrison
+carol_weston
+kim_roberts
+paul_lee
+isabelle_weston
+the preferenceList for perdue are: 
+nancy_davis
+frank_harrison
+elizabeth_evans
+mary_harrison
+carol_trotter
+john_jones
+daniel_grey
+sally_norton
+sally_evans
+kim_roberts
+ryan_peters
+georgiana_evans
+elizabeth_ford
+mary_adams
+nancy_kramer
+larry_chen
+kim_lee
+john_lee
+mary_trotter
+the preferenceList for harold_petersare: 
+university_of_colorado
+perdue
+rice
+university_of_illinois
+harvard
+rensselaer
+princeton
+university_of_wisconsin
+the preferenceList for nancy_davisare: 
+rice
+princeton
+university_of_wisconsin
+dartmouth
+rensselaer
+the preferenceList for isabelle_westonare: 
+perdue
+harvard
+university_of_illinois
+yale
+university_of_wisconsin
+the preferenceList for carol_trotterare: 
+dartmouth
+princeton
+the preferenceList for alice_smithare: 
+rensselaer
+university_of_wisconsin
+university_of_colorado
+perdue
+princeton
+university_of_illinois
+rice
+yale
+the preferenceList for mary_harrisonare: 
+rensselaer
+university_of_wisconsin
+yale
+the preferenceList for elizabeth_fordare: 
+rensselaer
+rice
+dartmouth
+perdue
+the preferenceList for elizabeth_chenare: 
+dartmouth
+university_of_wisconsin
+university_of_illinois
+university_of_colorado
+rice
+harvard
+yale
+the preferenceList for frank_harrisonare: 
+university_of_wisconsin
+princeton
+yale
+dartmouth
+perdue
+rensselaer
+university_of_illinois
+the preferenceList for kim_myersare: 
+dartmouth
+university_of_illinois
+university_of_wisconsin
+rensselaer
+harvard
+perdue
+the preferenceList for mary_trotterare: 
+dartmouth
+rensselaer
+rice
+university_of_wisconsin
+princeton
+university_of_colorado
+the preferenceList for georgiana_evansare: 
+harvard
+rice
+perdue
+university_of_illinois
+yale
+university_of_colorado
+the preferenceList for bob_davisare: 
+perdue
+university_of_wisconsin
+university_of_illinois
+dartmouth
+the preferenceList for kim_westonare: 
+perdue
+university_of_illinois
+university_of_wisconsin
+yale
+the preferenceList for elizabeth_myersare: 
+yale
+university_of_illinois
+university_of_colorado
+harvard
+perdue
+rice
+the preferenceList for carol_westonare: 
+harvard
+rensselaer
+dartmouth
+princeton
+university_of_illinois
+perdue
+the preferenceList for alice_evansare: 
+princeton
+university_of_wisconsin
+harvard
+yale
+university_of_illinois
+rensselaer
+rice
+the preferenceList for larry_chenare: 
+rensselaer
+yale
+princeton
+university_of_wisconsin
+perdue
+the preferenceList for wayne_petersare: 
+perdue
+university_of_illinois
+harvard
+rensselaer
+yale
+princeton
+university_of_colorado
+the preferenceList for ryan_petersare: 
+dartmouth
+rice
+perdue
+university_of_colorado
+princeton
+harvard
+university_of_illinois
+university_of_wisconsin
+the preferenceList for kim_robertsare: 
+yale
+princeton
+university_of_wisconsin
+rensselaer
+rice
+dartmouth
+harvard
+university_of_illinois
+the preferenceList for elizabeth_petersare: 
+university_of_wisconsin
+university_of_illinois
+harvard
+yale
+the preferenceList for john_jonesare: 
+rice
+university_of_wisconsin
+perdue
+yale
+rensselaer
+harvard
+dartmouth
+the preferenceList for ryan_brewerare: 
+princeton
+yale
+perdue
+university_of_illinois
+rensselaer
+harvard
+rice
+dartmouth
+the preferenceList for georgiana_davisare: 
+princeton
+university_of_wisconsin
+harvard
+yale
+the preferenceList for bob_chenare: 
+university_of_illinois
+dartmouth
+university_of_wisconsin
+university_of_colorado
+rensselaer
+yale
+the preferenceList for paul_leeare: 
+yale
+rensselaer
+harvard
+university_of_colorado
+university_of_wisconsin
+the preferenceList for nancy_kramerare: 
+princeton
+university_of_wisconsin
+dartmouth
+harvard
+the preferenceList for isabelle_smithare: 
+rensselaer
+princeton
+university_of_colorado
+harvard
+the preferenceList for sally_nortonare: 
+rice
+university_of_colorado
+yale
+perdue
+princeton
+the preferenceList for wayne_fordare: 
+university_of_wisconsin
+princeton
+harvard
+rensselaer
+dartmouth
+university_of_colorado
+perdue
+the preferenceList for georgiana_brewerare: 
+rensselaer
+harvard
+university_of_illinois
+yale
+the preferenceList for john_chenare: 
+yale
+rensselaer
+university_of_illinois
+dartmouth
+university_of_wisconsin
+rice
+the preferenceList for bob_kramerare: 
+dartmouth
+princeton
+university_of_colorado
+university_of_illinois
+the preferenceList for frank_jonesare: 
+yale
+rice
+harvard
+dartmouth
+the preferenceList for elizabeth_kramerare: 
+university_of_illinois
+rensselaer
+yale
+the preferenceList for carol_adamsare: 
+rensselaer
+yale
+the preferenceList for elizabeth_evansare: 
+rice
+rensselaer
+princeton
+perdue
+the preferenceList for john_leeare: 
+yale
+university_of_illinois
+rice
+perdue
+university_of_colorado
+rensselaer
+harvard
+princeton
+the preferenceList for frank_greyare: 
+princeton
+rice
+yale
+rensselaer
+harvard
+the preferenceList for valerie_kramerare: 
+dartmouth
+university_of_illinois
+yale
+princeton
+rice
+rensselaer
+perdue
+university_of_colorado
+the preferenceList for mary_adamsare: 
+harvard
+perdue
+university_of_colorado
+rensselaer
+the preferenceList for kim_leeare: 
+princeton
+university_of_wisconsin
+harvard
+perdue
+rice
+university_of_illinois
+the preferenceList for daniel_greyare: 
+university_of_colorado
+harvard
+dartmouth
+yale
+rice
+rensselaer
+the preferenceList for wayne_evansare: 
+university_of_illinois
+perdue
+yale
+dartmouth
+rice
+the preferenceList for ryan_jonesare: 
+dartmouth
+rice
+perdue
+rensselaer
+university_of_wisconsin
+university_of_colorado
+the preferenceList for daniel_harrisonare: 
+perdue
+dartmouth
+yale
+harvard
+university_of_colorado
+rice
+university_of_illinois
+the preferenceList for valerie_smithare: 
+university_of_illinois
+yale
+dartmouth
+rice
+the preferenceList for sally_evansare: 
+harvard
+rensselaer
+university_of_colorado
+perdue
+the preferenceList for daniel_kramerare: 
+yale
+rensselaer
+university_of_illinois
+harvard
+---- ROUND 1 ----
+yale makes an offer to kim_myers
+  kim_myers declines offer from yale
+rensselaer makes an offer to alice_smith
+  alice_smith tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to mary_harrison
+  mary_harrison declines offer from university_of_illinois
+rice makes an offer to alice_evans
+  alice_evans tentatively accepts offer from rice
+university_of_wisconsin makes an offer to elizabeth_peters
+  elizabeth_peters tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to sally_evans
+  sally_evans tentatively accepts offer from harvard
+dartmouth makes an offer to frank_harrison
+  frank_harrison tentatively accepts offer from dartmouth
+princeton makes an offer to wayne_ford
+  wayne_ford tentatively accepts offer from princeton
+university_of_colorado makes an offer to nancy_kramer
+  nancy_kramer declines offer from university_of_colorado
+perdue makes an offer to nancy_davis
+  nancy_davis declines offer from perdue
+---- ROUND 2 ----
+yale makes an offer to carol_adams
+  carol_adams tentatively accepts offer from yale
+rensselaer makes an offer to elizabeth_myers
+  elizabeth_myers declines offer from rensselaer
+university_of_illinois makes an offer to paul_lee
+  paul_lee declines offer from university_of_illinois
+rice makes an offer to carol_trotter
+  carol_trotter declines offer from rice
+university_of_wisconsin makes an offer to wayne_peters
+  wayne_peters declines offer from university_of_wisconsin
+harvard makes an offer to mary_trotter
+  mary_trotter declines offer from harvard
+dartmouth makes an offer to wayne_ford
+  wayne_ford declines offer from dartmouth
+princeton makes an offer to ryan_jones
+  ryan_jones declines offer from princeton
+university_of_colorado makes an offer to daniel_grey
+  daniel_grey tentatively accepts offer from university_of_colorado
+perdue makes an offer to frank_harrison
+  frank_harrison declines offer from perdue
+---- ROUND 3 ----
+yale makes an offer to bob_chen
+  bob_chen tentatively accepts offer from yale
+rensselaer makes an offer to elizabeth_evans
+  elizabeth_evans tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to elizabeth_kramer
+  elizabeth_kramer tentatively accepts offer from university_of_illinois
+rice makes an offer to daniel_harrison
+  daniel_harrison tentatively accepts offer from rice
+university_of_wisconsin makes an offer to bob_kramer
+  bob_kramer declines offer from university_of_wisconsin
+harvard makes an offer to kim_roberts
+  kim_roberts tentatively accepts offer from harvard
+dartmouth makes an offer to kim_lee
+  kim_lee declines offer from dartmouth
+princeton makes an offer to daniel_grey
+  daniel_grey declines offer from princeton
+university_of_colorado makes an offer to john_chen
+  john_chen declines offer from university_of_colorado
+perdue makes an offer to elizabeth_evans
+  elizabeth_evans declines offer from perdue
+---- ROUND 4 ----
+yale makes an offer to ryan_brewer
+  ryan_brewer tentatively accepts offer from yale
+rensselaer makes an offer to georgiana_evans
+  georgiana_evans declines offer from rensselaer
+university_of_illinois makes an offer to isabelle_smith
+  isabelle_smith declines offer from university_of_illinois
+rice makes an offer to alice_smith
+  alice_smith declines offer from rice
+university_of_wisconsin makes an offer to georgiana_davis
+  georgiana_davis tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to valerie_smith
+  valerie_smith declines offer from harvard
+dartmouth makes an offer to carol_trotter
+  carol_trotter tentatively accepts offer from dartmouth
+princeton makes an offer to elizabeth_peters
+  elizabeth_peters declines offer from princeton
+university_of_colorado makes an offer to carol_adams
+  carol_adams declines offer from university_of_colorado
+perdue makes an offer to mary_harrison
+  mary_harrison declines offer from perdue
+---- ROUND 5 ----
+yale makes an offer to elizabeth_peters
+  elizabeth_peters declines offer from yale
+rensselaer makes an offer to carol_adams
+  carol_adams withdraws tentative acceptance of offer from yale
+  carol_adams tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to mary_trotter
+  mary_trotter declines offer from university_of_illinois
+rice makes an offer to elizabeth_peters
+  elizabeth_peters declines offer from rice
+university_of_wisconsin makes an offer to bob_chen
+  bob_chen withdraws tentative acceptance of offer from yale
+  bob_chen tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to ryan_brewer
+  ryan_brewer declines offer from harvard
+dartmouth makes an offer to kim_roberts
+  kim_roberts withdraws tentative acceptance of offer from harvard
+  kim_roberts tentatively accepts offer from dartmouth
+princeton makes an offer to alice_smith
+  alice_smith declines offer from princeton
+university_of_colorado makes an offer to georgiana_evans
+  georgiana_evans tentatively accepts offer from university_of_colorado
+perdue makes an offer to carol_trotter
+  carol_trotter declines offer from perdue
+---- ROUND 6 ----
+yale makes an offer to wayne_ford
+  wayne_ford declines offer from yale
+rensselaer makes an offer to kim_lee
+  kim_lee declines offer from rensselaer
+university_of_illinois makes an offer to elizabeth_chen
+  elizabeth_chen tentatively accepts offer from university_of_illinois
+rice makes an offer to kim_myers
+  kim_myers declines offer from rice
+university_of_wisconsin makes an offer to ryan_peters
+  ryan_peters tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to nancy_kramer
+  nancy_kramer tentatively accepts offer from harvard
+dartmouth makes an offer to kim_weston
+  kim_weston declines offer from dartmouth
+princeton makes an offer to sally_evans
+  sally_evans declines offer from princeton
+university_of_colorado makes an offer to georgiana_davis
+  georgiana_davis declines offer from university_of_colorado
+perdue makes an offer to john_jones
+  john_jones tentatively accepts offer from perdue
+---- ROUND 7 ----
+yale makes an offer to sally_norton
+  sally_norton tentatively accepts offer from yale
+rensselaer makes an offer to kim_myers
+  kim_myers tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to kim_roberts
+  kim_roberts declines offer from university_of_illinois
+rice makes an offer to carol_adams
+  carol_adams declines offer from rice
+university_of_wisconsin makes an offer to john_jones
+  john_jones withdraws tentative acceptance of offer from perdue
+  john_jones tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to harold_peters
+  harold_peters tentatively accepts offer from harvard
+dartmouth makes an offer to valerie_kramer
+  valerie_kramer tentatively accepts offer from dartmouth
+princeton makes an offer to frank_harrison
+  frank_harrison withdraws tentative acceptance of offer from dartmouth
+  frank_harrison tentatively accepts offer from princeton
+university_of_colorado makes an offer to carol_trotter
+  carol_trotter declines offer from university_of_colorado
+perdue makes an offer to daniel_grey
+  daniel_grey declines offer from perdue
+---- ROUND 8 ----
+yale makes an offer to frank_grey
+  frank_grey tentatively accepts offer from yale
+rensselaer makes an offer to bob_davis
+  bob_davis declines offer from rensselaer
+university_of_illinois makes an offer to nancy_kramer
+  nancy_kramer declines offer from university_of_illinois
+rice makes an offer to elizabeth_kramer
+  elizabeth_kramer declines offer from rice
+university_of_wisconsin makes an offer to elizabeth_ford
+  elizabeth_ford declines offer from university_of_wisconsin
+harvard makes an offer to frank_harrison
+  frank_harrison declines offer from harvard
+dartmouth makes an offer to bob_chen
+  bob_chen withdraws tentative acceptance of offer from university_of_wisconsin
+  bob_chen tentatively accepts offer from dartmouth
+princeton makes an offer to frank_jones
+  frank_jones declines offer from princeton
+university_of_colorado makes an offer to alice_evans
+  alice_evans declines offer from university_of_colorado
+perdue makes an offer to sally_norton
+  sally_norton declines offer from perdue
+---- ROUND 9 ----
+yale makes an offer to elizabeth_kramer
+  elizabeth_kramer declines offer from yale
+rensselaer makes an offer to isabelle_smith
+  isabelle_smith tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to kim_weston
+  kim_weston tentatively accepts offer from university_of_illinois
+rice makes an offer to sally_norton
+  sally_norton withdraws tentative acceptance of offer from yale
+  sally_norton tentatively accepts offer from rice
+university_of_wisconsin makes an offer to carol_adams
+  carol_adams declines offer from university_of_wisconsin
+harvard makes an offer to valerie_kramer
+  valerie_kramer declines offer from harvard
+dartmouth makes an offer to bob_kramer
+  bob_kramer tentatively accepts offer from dartmouth
+princeton makes an offer to ryan_peters
+  ryan_peters withdraws tentative acceptance of offer from university_of_wisconsin
+  ryan_peters tentatively accepts offer from princeton
+university_of_colorado makes an offer to isabelle_smith
+  isabelle_smith declines offer from university_of_colorado
+perdue makes an offer to sally_evans
+  sally_evans declines offer from perdue
+---- ROUND 10 ----
+yale makes an offer to frank_jones
+  frank_jones tentatively accepts offer from yale
+rensselaer makes an offer to carol_trotter
+  carol_trotter declines offer from rensselaer
+university_of_illinois makes an offer to alice_evans
+  alice_evans withdraws tentative acceptance of offer from rice
+  alice_evans tentatively accepts offer from university_of_illinois
+rice makes an offer to valerie_kramer
+  valerie_kramer declines offer from rice
+university_of_wisconsin makes an offer to nancy_davis
+  nancy_davis tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to wayne_ford
+  wayne_ford declines offer from harvard
+dartmouth makes an offer to john_chen
+  john_chen tentatively accepts offer from dartmouth
+princeton makes an offer to harold_peters
+  harold_peters declines offer from princeton
+university_of_colorado makes an offer to harold_peters
+  harold_peters withdraws tentative acceptance of offer from harvard
+  harold_peters tentatively accepts offer from university_of_colorado
+perdue makes an offer to kim_roberts
+  kim_roberts declines offer from perdue
+---- ROUND 11 ----
+yale makes an offer to valerie_smith
+  valerie_smith tentatively accepts offer from yale
+rensselaer makes an offer to mary_trotter
+  mary_trotter tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to kim_lee
+  kim_lee tentatively accepts offer from university_of_illinois
+rice makes an offer to wayne_ford
+  wayne_ford declines offer from rice
+university_of_wisconsin makes an offer to harold_peters
+  harold_peters declines offer from university_of_wisconsin
+harvard makes an offer to isabelle_weston
+  isabelle_weston tentatively accepts offer from harvard
+dartmouth makes an offer to daniel_grey
+  daniel_grey declines offer from dartmouth
+princeton makes an offer to elizabeth_myers
+  elizabeth_myers declines offer from princeton
+university_of_colorado makes an offer to kim_myers
+  kim_myers declines offer from university_of_colorado
+perdue makes an offer to ryan_peters
+  ryan_peters withdraws tentative acceptance of offer from princeton
+  ryan_peters tentatively accepts offer from perdue
+---- ROUND 12 ----
+yale makes an offer to daniel_harrison
+  daniel_harrison withdraws tentative acceptance of offer from rice
+  daniel_harrison tentatively accepts offer from yale
+rensselaer makes an offer to daniel_harrison
+  daniel_harrison declines offer from rensselaer
+university_of_illinois makes an offer to frank_harrison
+  frank_harrison declines offer from university_of_illinois
+rice makes an offer to john_lee
+  john_lee tentatively accepts offer from rice
+university_of_wisconsin makes an offer to daniel_kramer
+  daniel_kramer declines offer from university_of_wisconsin
+harvard makes an offer to frank_jones
+  frank_jones declines offer from harvard
+dartmouth makes an offer to elizabeth_ford
+  elizabeth_ford tentatively accepts offer from dartmouth
+princeton makes an offer to frank_grey
+  frank_grey withdraws tentative acceptance of offer from yale
+  frank_grey tentatively accepts offer from princeton
+university_of_colorado makes an offer to ryan_peters
+  ryan_peters declines offer from university_of_colorado
+perdue makes an offer to georgiana_evans
+  georgiana_evans withdraws tentative acceptance of offer from university_of_colorado
+  georgiana_evans tentatively accepts offer from perdue
+---- ROUND 13 ----
+yale makes an offer to kim_weston
+  kim_weston declines offer from yale
+rensselaer makes an offer to ryan_jones
+  ryan_jones tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to wayne_ford
+  wayne_ford declines offer from university_of_illinois
+rice makes an offer to sally_evans
+  sally_evans declines offer from rice
+university_of_wisconsin makes an offer to mary_trotter
+  mary_trotter declines offer from university_of_wisconsin
+harvard makes an offer to georgiana_brewer
+  georgiana_brewer tentatively accepts offer from harvard
+princeton makes an offer to georgiana_davis
+  georgiana_davis withdraws tentative acceptance of offer from university_of_wisconsin
+  georgiana_davis tentatively accepts offer from princeton
+university_of_colorado makes an offer to valerie_smith
+  valerie_smith declines offer from university_of_colorado
+perdue makes an offer to elizabeth_ford
+  elizabeth_ford declines offer from perdue
+---- ROUND 14 ----
+yale makes an offer to john_lee
+  john_lee withdraws tentative acceptance of offer from rice
+  john_lee tentatively accepts offer from yale
+university_of_illinois makes an offer to wayne_evans
+  wayne_evans tentatively accepts offer from university_of_illinois
+rice makes an offer to elizabeth_chen
+  elizabeth_chen declines offer from rice
+university_of_wisconsin makes an offer to valerie_kramer
+  valerie_kramer declines offer from university_of_wisconsin
+harvard makes an offer to nancy_davis
+  nancy_davis declines offer from harvard
+princeton makes an offer to alice_evans
+  alice_evans withdraws tentative acceptance of offer from university_of_illinois
+  alice_evans tentatively accepts offer from princeton
+university_of_colorado makes an offer to kim_lee
+  kim_lee declines offer from university_of_colorado
+perdue makes an offer to mary_adams
+  mary_adams tentatively accepts offer from perdue
+---- ROUND 15 ----
+yale makes an offer to daniel_kramer
+  daniel_kramer tentatively accepts offer from yale
+university_of_illinois makes an offer to sally_norton
+  sally_norton declines offer from university_of_illinois
+rice makes an offer to mary_adams
+  mary_adams declines offer from rice
+university_of_wisconsin makes an offer to elizabeth_myers
+  elizabeth_myers declines offer from university_of_wisconsin
+harvard makes an offer to alice_evans
+  alice_evans declines offer from harvard
+princeton makes an offer to paul_lee
+  paul_lee declines offer from princeton
+university_of_colorado makes an offer to georgiana_brewer
+  georgiana_brewer declines offer from university_of_colorado
+perdue makes an offer to nancy_kramer
+  nancy_kramer declines offer from perdue
+---- ROUND 16 ----
+yale makes an offer to ryan_jones
+  ryan_jones declines offer from yale
+university_of_illinois makes an offer to bob_chen
+  bob_chen withdraws tentative acceptance of offer from dartmouth
+  bob_chen tentatively accepts offer from university_of_illinois
+rice makes an offer to kim_lee
+  kim_lee withdraws tentative acceptance of offer from university_of_illinois
+  kim_lee tentatively accepts offer from rice
+university_of_wisconsin makes an offer to georgiana_brewer
+  georgiana_brewer declines offer from university_of_wisconsin
+harvard makes an offer to john_lee
+  john_lee declines offer from harvard
+dartmouth makes an offer to elizabeth_kramer
+  elizabeth_kramer declines offer from dartmouth
+princeton makes an offer to georgiana_evans
+  georgiana_evans declines offer from princeton
+university_of_colorado makes an offer to larry_chen
+  larry_chen declines offer from university_of_colorado
+perdue makes an offer to larry_chen
+  larry_chen tentatively accepts offer from perdue
+---- ROUND 17 ----
+yale makes an offer to georgiana_evans
+  georgiana_evans declines offer from yale
+university_of_illinois makes an offer to georgiana_davis
+  georgiana_davis declines offer from university_of_illinois
+rice makes an offer to wayne_evans
+  wayne_evans declines offer from rice
+university_of_wisconsin makes an offer to isabelle_weston
+  isabelle_weston declines offer from university_of_wisconsin
+harvard makes an offer to bob_chen
+  bob_chen declines offer from harvard
+dartmouth makes an offer to elizabeth_evans
+  elizabeth_evans declines offer from dartmouth
+princeton makes an offer to mary_trotter
+  mary_trotter declines offer from princeton
+university_of_colorado makes an offer to mary_adams
+  mary_adams declines offer from university_of_colorado
+perdue makes an offer to kim_lee
+  kim_lee withdraws tentative acceptance of offer from rice
+  kim_lee tentatively accepts offer from perdue
+---- ROUND 18 ----
+yale makes an offer to elizabeth_myers
+  elizabeth_myers tentatively accepts offer from yale
+university_of_illinois makes an offer to kim_myers
+  kim_myers withdraws tentative acceptance of offer from rensselaer
+  kim_myers tentatively accepts offer from university_of_illinois
+rice makes an offer to john_chen
+  john_chen declines offer from rice
+university_of_wisconsin makes an offer to georgiana_evans
+  georgiana_evans declines offer from university_of_wisconsin
+harvard makes an offer to john_chen
+  john_chen declines offer from harvard
+dartmouth makes an offer to frank_jones
+  frank_jones declines offer from dartmouth
+princeton makes an offer to larry_chen
+  larry_chen withdraws tentative acceptance of offer from perdue
+  larry_chen tentatively accepts offer from princeton
+university_of_colorado makes an offer to wayne_evans
+  wayne_evans declines offer from university_of_colorado
+perdue makes an offer to john_lee
+  john_lee declines offer from perdue
+---- ROUND 19 ----
+yale makes an offer to paul_lee
+  paul_lee tentatively accepts offer from yale
+rensselaer makes an offer to ryan_peters
+  ryan_peters declines offer from rensselaer
+university_of_illinois makes an offer to georgiana_evans
+  georgiana_evans declines offer from university_of_illinois
+rice makes an offer to elizabeth_evans
+  elizabeth_evans withdraws tentative acceptance of offer from rensselaer
+  elizabeth_evans tentatively accepts offer from rice
+university_of_wisconsin makes an offer to frank_grey
+  frank_grey declines offer from university_of_wisconsin
+harvard makes an offer to paul_lee
+  paul_lee declines offer from harvard
+dartmouth makes an offer to daniel_kramer
+  daniel_kramer declines offer from dartmouth
+princeton makes an offer to carol_adams
+  carol_adams declines offer from princeton
+university_of_colorado makes an offer to daniel_kramer
+  daniel_kramer declines offer from university_of_colorado
+perdue makes an offer to mary_trotter
+  mary_trotter declines offer from perdue
+---- ROUND 20 ----
+yale makes an offer to bob_davis
+  bob_davis declines offer from yale
+rensselaer makes an offer to georgiana_davis
+  georgiana_davis declines offer from rensselaer
+university_of_illinois makes an offer to nancy_davis
+  nancy_davis declines offer from university_of_illinois
+rice makes an offer to daniel_kramer
+  daniel_kramer declines offer from rice
+university_of_wisconsin makes an offer to elizabeth_chen
+  elizabeth_chen withdraws tentative acceptance of offer from university_of_illinois
+  elizabeth_chen tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to elizabeth_peters
+  elizabeth_peters declines offer from harvard
+dartmouth makes an offer to wayne_peters
+  wayne_peters declines offer from dartmouth
+princeton makes an offer to kim_myers
+  kim_myers declines offer from princeton
+university_of_colorado makes an offer to frank_jones
+  frank_jones declines offer from university_of_colorado
+---- ROUND 21 ----
+yale makes an offer to john_chen
+  john_chen withdraws tentative acceptance of offer from dartmouth
+  john_chen tentatively accepts offer from yale
+rensselaer makes an offer to alice_evans
+  alice_evans declines offer from rensselaer
+university_of_illinois makes an offer to carol_trotter
+  carol_trotter declines offer from university_of_illinois
+rice makes an offer to kim_weston
+  kim_weston declines offer from rice
+university_of_wisconsin makes an offer to bob_davis
+  bob_davis tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to kim_lee
+  kim_lee withdraws tentative acceptance of offer from perdue
+  kim_lee tentatively accepts offer from harvard
+dartmouth makes an offer to john_lee
+  john_lee declines offer from dartmouth
+university_of_colorado makes an offer to elizabeth_kramer
+  elizabeth_kramer declines offer from university_of_colorado
+---- ROUND 22 ----
+yale makes an offer to daniel_grey
+  daniel_grey declines offer from yale
+rensselaer makes an offer to bob_chen
+  bob_chen declines offer from rensselaer
+university_of_illinois makes an offer to elizabeth_evans
+  elizabeth_evans declines offer from university_of_illinois
+rice makes an offer to bob_davis
+  bob_davis declines offer from rice
+university_of_wisconsin makes an offer to carol_weston
+  carol_weston declines offer from university_of_wisconsin
+harvard makes an offer to bob_davis
+  bob_davis declines offer from harvard
+dartmouth makes an offer to isabelle_weston
+  isabelle_weston declines offer from dartmouth
+university_of_colorado makes an offer to elizabeth_evans
+  elizabeth_evans declines offer from university_of_colorado
+---- ROUND 23 ----
+yale makes an offer to larry_chen
+  larry_chen withdraws tentative acceptance of offer from princeton
+  larry_chen tentatively accepts offer from yale
+rensselaer makes an offer to bob_kramer
+  bob_kramer declines offer from rensselaer
+university_of_illinois makes an offer to valerie_kramer
+  valerie_kramer declines offer from university_of_illinois
+rice makes an offer to bob_kramer
+  bob_kramer declines offer from rice
+university_of_wisconsin makes an offer to elizabeth_evans
+  elizabeth_evans declines offer from university_of_wisconsin
+harvard makes an offer to ryan_peters
+  ryan_peters declines offer from harvard
+dartmouth makes an offer to carol_adams
+  carol_adams declines offer from dartmouth
+university_of_colorado makes an offer to frank_harrison
+  frank_harrison declines offer from university_of_colorado
+---- ROUND 24 ----
+rensselaer makes an offer to frank_jones
+  frank_jones declines offer from rensselaer
+university_of_illinois makes an offer to john_lee
+  john_lee declines offer from university_of_illinois
+rice makes an offer to ryan_peters
+  ryan_peters withdraws tentative acceptance of offer from perdue
+  ryan_peters tentatively accepts offer from rice
+university_of_wisconsin makes an offer to wayne_ford
+  wayne_ford withdraws tentative acceptance of offer from princeton
+  wayne_ford tentatively accepts offer from university_of_wisconsin
+harvard makes an offer to carol_trotter
+  carol_trotter declines offer from harvard
+dartmouth makes an offer to georgiana_davis
+  georgiana_davis declines offer from dartmouth
+university_of_colorado makes an offer to daniel_harrison
+  daniel_harrison declines offer from university_of_colorado
+---- ROUND 25 ----
+rensselaer makes an offer to kim_weston
+  kim_weston declines offer from rensselaer
+university_of_illinois makes an offer to daniel_grey
+  daniel_grey declines offer from university_of_illinois
+harvard makes an offer to kim_myers
+  kim_myers declines offer from harvard
+dartmouth makes an offer to valerie_smith
+  valerie_smith declines offer from dartmouth
+university_of_colorado makes an offer to carol_weston
+  carol_weston declines offer from university_of_colorado
+---- ROUND 26 ----
+rensselaer makes an offer to paul_lee
+  paul_lee declines offer from rensselaer
+university_of_illinois makes an offer to john_jones
+  john_jones declines offer from university_of_illinois
+dartmouth makes an offer to elizabeth_peters
+  elizabeth_peters declines offer from dartmouth
+university_of_colorado makes an offer to kim_roberts
+  kim_roberts declines offer from university_of_colorado
+---- ROUND 27 ----
+rensselaer makes an offer to elizabeth_ford
+  elizabeth_ford withdraws tentative acceptance of offer from dartmouth
+  elizabeth_ford tentatively accepts offer from rensselaer
+university_of_illinois makes an offer to elizabeth_myers
+  elizabeth_myers declines offer from university_of_illinois
+dartmouth makes an offer to georgiana_brewer
+  georgiana_brewer declines offer from dartmouth
+university_of_colorado makes an offer to paul_lee
+  paul_lee declines offer from university_of_colorado
+---- ROUND 28 ----
+university_of_illinois makes an offer to john_chen
+  john_chen declines offer from university_of_illinois
+dartmouth makes an offer to kim_myers
+  kim_myers withdraws tentative acceptance of offer from university_of_illinois
+  kim_myers tentatively accepts offer from dartmouth
+university_of_colorado makes an offer to isabelle_weston
+  isabelle_weston declines offer from university_of_colorado
+---- ROUND 29 ----
+dartmouth makes an offer to elizabeth_chen
+  elizabeth_chen withdraws tentative acceptance of offer from university_of_wisconsin
+  elizabeth_chen tentatively accepts offer from dartmouth
+---- ROUND 30 ----
+university_of_wisconsin makes an offer to mary_adams
+  mary_adams declines offer from university_of_wisconsin
+dartmouth makes an offer to elizabeth_myers
+  elizabeth_myers declines offer from dartmouth
+---- ROUND 31 ----
+university_of_wisconsin makes an offer to daniel_harrison
+  daniel_harrison declines offer from university_of_wisconsin
+dartmouth makes an offer to alice_evans
+  alice_evans declines offer from dartmouth
+---- ROUND 32 ----
+university_of_wisconsin makes an offer to kim_myers
+  kim_myers declines offer from university_of_wisconsin
+dartmouth makes an offer to mary_adams
+  mary_adams declines offer from dartmouth
+---- ROUND 33 ----
+university_of_wisconsin makes an offer to frank_jones
+  frank_jones declines offer from university_of_wisconsin
+---- ROUND 34 ----
+university_of_wisconsin makes an offer to larry_chen
+  larry_chen declines offer from university_of_wisconsin
+---- ROUND 35 ----
+university_of_wisconsin makes an offer to ryan_jones
+  ryan_jones declines offer from university_of_wisconsin
+---- ROUND 36 ----
+no offers_made this round
+
+The enrollment list of dartmouth is:
+carol_trotter
+kim_roberts
+valerie_kramer
+bob_kramer
+kim_myers
+elizabeth_chen
+[ 1 remaining slots.]
+The enrollment list of harvard is:
+sally_evans
+nancy_kramer
+isabelle_weston
+georgiana_brewer
+kim_lee
+[ 2 remaining slots.]
+The enrollment list of perdue is:
+georgiana_evans
+mary_adams
+[ 8 remaining slots.]
+The enrollment list of princeton is:
+frank_harrison
+frank_grey
+georgiana_davis
+alice_evans
+[ 6 remaining slots.]
+The enrollment list of rensselaer is:
+alice_smith
+carol_adams
+isabelle_smith
+mary_trotter
+ryan_jones
+elizabeth_ford
+[ 1 remaining slots.]
+The enrollment list of rice is:
+sally_norton
+elizabeth_evans
+ryan_peters
+[ 3 remaining slots.]
+The enrollment list of university_of_colorado is:
+daniel_grey
+harold_peters
+[ 8 remaining slots.]
+The enrollment list of university_of_illinois is:
+elizabeth_kramer
+kim_weston
+wayne_evans
+bob_chen
+[ 3 remaining slots.]
+The enrollment list of university_of_wisconsin is:
+elizabeth_peters
+john_jones
+nancy_davis
+bob_davis
+wayne_ford
+[ 1 remaining slots.]
+The enrollment list of yale is:
+ryan_brewer
+frank_jones
+valerie_smith
+daniel_harrison
+john_lee
+daniel_kramer
+elizabeth_myers
+paul_lee
+john_chen
+larry_chen
+[ 0 remaining slots.]
+
+The student alice_evans decided to go to princeton
+The student alice_smith decided to go to rensselaer
+The student bob_chen decided to go to university_of_illinois
+The student bob_davis decided to go to university_of_wisconsin
+The student bob_kramer decided to go to dartmouth
+The student carol_adams decided to go to rensselaer
+The student carol_trotter decided to go to dartmouth
+The student carol_weston hasn't decided where to go.
+The student daniel_grey decided to go to university_of_colorado
+The student daniel_harrison decided to go to yale
+The student daniel_kramer decided to go to yale
+The student elizabeth_chen decided to go to dartmouth
+The student elizabeth_evans decided to go to rice
+The student elizabeth_ford decided to go to rensselaer
+The student elizabeth_kramer decided to go to university_of_illinois
+The student elizabeth_myers decided to go to yale
+The student elizabeth_peters decided to go to university_of_wisconsin
+The student frank_grey decided to go to princeton
+The student frank_harrison decided to go to princeton
+The student frank_jones decided to go to yale
+The student georgiana_brewer decided to go to harvard
+The student georgiana_davis decided to go to princeton
+The student georgiana_evans decided to go to perdue
+The student harold_peters decided to go to university_of_colorado
+The student isabelle_smith decided to go to rensselaer
+The student isabelle_weston decided to go to harvard
+The student john_chen decided to go to yale
+The student john_jones decided to go to university_of_wisconsin
+The student john_lee decided to go to yale
+The student kim_lee decided to go to harvard
+The student kim_myers decided to go to dartmouth
+The student kim_roberts decided to go to dartmouth
+The student kim_weston decided to go to university_of_illinois
+The student larry_chen decided to go to yale
+The student mary_adams decided to go to perdue
+The student mary_harrison hasn't decided where to go.
+The student mary_trotter decided to go to rensselaer
+The student nancy_davis decided to go to university_of_wisconsin
+The student nancy_kramer decided to go to harvard
+The student paul_lee decided to go to yale
+The student ryan_brewer decided to go to yale
+The student ryan_jones decided to go to rensselaer
+The student ryan_peters decided to go to rice
+The student sally_evans decided to go to harvard
+The student sally_norton decided to go to rice
+The student valerie_kramer decided to go to dartmouth
+The student valerie_smith decided to go to yale
+The student wayne_evans decided to go to university_of_illinois
+The student wayne_ford decided to go to university_of_wisconsin
+The student wayne_peters hasn't decided where to go.
+
